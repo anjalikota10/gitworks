@@ -1,3 +1,10 @@
 this page has some code
 
+<<<<<<< Updated upstream
 this is manager code
+=======
+this is day1
+this is day2
+this is day3
+this is day4
+>>>>>>> Stashed changes
